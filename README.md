@@ -31,6 +31,7 @@
           + Level trung bình(M): Tốc độ là 220ms, sau mỗi lần ăn được cộng 25 điểm
           + Level khó(H): Tốc độ 150ms, sau mỗi lần ăn cộng 30 điểm
       - Mỗi khi bị cắn vào đuôi hoặc đâm đầu vào tường, trò chơi sẽ kết thúc, hiển thị điểm người chơi
+      - Video demo: [SnakeGame-C++/SDL2](https://youtu.be/nY0xdwS6OAE)
     
 4. ### Thuật toán của game
     -------------------------------
